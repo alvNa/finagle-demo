@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/code/spring-social-samples/spring-social-showcase" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../cursera/scala/example" value="1459512774000" />
+        <entry key="$PROJECT_DIR$/../../cursera/scala/forcomp" value="1462309612000" />
+        <entry key="$PROJECT_DIR$/../../cursera/scala/funsets" value="1462312640000" />
+        <entry key="$PROJECT_DIR$/../../cursera/scala/objsets" value="1462315646000" />
+        <entry key="$PROJECT_DIR$/../../cursera/scala/patmat" value="1462372864000" />
+        <entry key="$PROJECT_DIR$/../../cursera/scala/recfun" value="1462365530000" />
+        <entry key="$PROJECT_DIR$/../../cursera/spark/example" value="1489426822000" />
+        <entry key="$PROJECT_DIR$/../../cursera/spark/wikipedia" value="1489512222000" />
+        <entry key="$PROJECT_DIR$/../../cursera/stackoverflow" value="1489929080000" />
+        <entry key="$USER_HOME$/entorno/workspace/fpinscala" value="1474929235000" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/code/MasteringAkka_Code/chapter1/initial-example-app" value="PREVIEW" />
+        <entry key="$USER_HOME$/code/MasteringAkka_Code/chapter4/bookstore-app-complete" value="PREVIEW" />
+        <entry key="$USER_HOME$/code/fpinscala" value="PREVIEW" />
+        <entry key="$USER_HOME$/code/sbt" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="intInjectionMapping">
+      <map>
+        <entry key="xml" value="XML" />
+      </map>
+    </option>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
